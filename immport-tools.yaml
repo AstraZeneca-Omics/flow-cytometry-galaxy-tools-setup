@@ -79,3 +79,6 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
+  - name: metacyto_glm_clr
+    owner: immport-devteam
+    tool_panel_section_id: phenotypecorrelationanalysis
