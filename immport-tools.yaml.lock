@@ -36,6 +36,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 8c17aa8032c2
+  - bca68066a957
   tool_panel_section_id: flowvisualizationtools
 - name: extract_fcs_keywords
   owner: immport-devteam
