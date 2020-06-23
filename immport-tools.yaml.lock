@@ -5,6 +5,7 @@ tools:
 - name: auto_collapse_pop
   owner: immport-devteam
   revisions:
+  - 08b71aee9b80
   - 7632562ada41
   tool_panel_section_id: flowfiletools
 - name: check_fcs_headers
@@ -21,11 +22,13 @@ tools:
   owner: immport-devteam
   revisions:
   - 59f859ea3122
+  - a3ae90eb1232
   tool_panel_section_id: flowfiletools
 - name: convert_fcs_to_text
   owner: immport-devteam
   revisions:
   - 8e10184368a0
+  - 99bf034c674d
   tool_panel_section_id: fcsfiletools
 - name: cross_sample
   owner: immport-devteam
@@ -41,6 +44,7 @@ tools:
 - name: extract_fcs_keywords
   owner: immport-devteam
   revisions:
+  - 1d5e530c8a5e
   - dc00746654dc
   tool_panel_section_id: fcsfiletools
 - name: extract_pop
@@ -52,6 +56,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 78b8ab344edd
+  - c28c2e680bf5
   tool_panel_section_id: fcsfiletools
 - name: fcs_scatterplot
   owner: immport-devteam
@@ -62,6 +67,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 1d926a8daa92
+  - d2749aa59d20
   tool_panel_section_id: fcsfiletools
 - name: flowai
   owner: immport-devteam
@@ -77,6 +83,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 479ff3a9023c
+  - 7a889f2f2e15
   tool_panel_section_id: flowfiletools
 - name: flow_overview
   owner: immport-devteam
@@ -101,6 +108,7 @@ tools:
 - name: merge_ds_flowtext
   owner: immport-devteam
   revisions:
+  - 3c0e4179be7a
   - '426650130311'
   tool_panel_section_id: flowfiletools
 - name: profile_cl
