@@ -72,6 +72,7 @@ tools:
 - name: flowai
   owner: immport-devteam
   revisions:
+  - 34397a84faf1
   - 60aa5e56531a
   tool_panel_section_id: fcsfiletools
 - name: flowcl
