@@ -25,6 +25,9 @@ tools:
   - name: cs_overview
     owner: immport-devteam
     tool_panel_section_id: flowvisualizationtools
+  - name: edit_fcs_markers
+    owner: azomics
+    tool_panel_section_id: flowfiletools
   - name: extract_fcs_keywords
     owner: immport-devteam
     tool_panel_section_id: fcsfiletools
@@ -33,6 +36,9 @@ tools:
     tool_panel_section_id: flowfiletools
   - name: fcs_gate_trans
     owner: immport-devteam
+    tool_panel_section_id: fcsfiletools
+  - name: fcs_merge_downsample
+    owner: azomics
     tool_panel_section_id: fcsfiletools
   - name: fcs_scatterplot
     owner: immport-devteam
@@ -55,15 +61,30 @@ tools:
   - name: flow_overview
     owner: immport-devteam
     tool_panel_section_id: flowvisualizationtools
+  - name: flowsom_compare
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
+  - name: flowsom_cross_comp
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
+  - name: flowsom_tree
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
   - name: flowtext_scatterplot
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
   - name: flowtext_summary
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
+  - name: flowviz_density_plots
+    owner: azomics
+    tool_panel_section_id: flowvisualizationtools
   - name: generate_mfi
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
+  - name: ggcyto_1d_density_plots
+    owner: azomics
+    tool_panel_section_id: flowvisualizationtools
   - name: merge_ds_flowtext
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
