@@ -24,7 +24,7 @@ tools:
     tool_panel_section_id: flowanalysistools
   - name: cs_overview
     owner: immport-devteam
-    tool_panel_section_id: flowvisualizationtools
+    tool_panel_section_id: vis_tools 
   - name: edit_fcs_markers
     owner: azomics
     tool_panel_section_id: flowfiletools
@@ -60,7 +60,7 @@ tools:
 #    tool_panel_section_id: immport_tools
   - name: flow_overview
     owner: immport-devteam
-    tool_panel_section_id: flowvisualizationtools
+    tool_panel_section_id: vis_tools
   - name: flowsom_compare
     owner: azomics
     tool_panel_section_id: flowanalysistools
@@ -78,13 +78,13 @@ tools:
     tool_panel_section_id: flowfiletools
   - name: flowviz_density_plots
     owner: azomics
-    tool_panel_section_id: flowvisualizationtools
+    tool_panel_section_id: vis_tools 
   - name: generate_mfi
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
   - name: ggcyto_1d_density_plots
     owner: azomics
-    tool_panel_section_id: flowvisualizationtools
+    tool_panel_section_id: vis_tools 
   - name: merge_ds_flowtext
     owner: immport-devteam
     tool_panel_section_id: flowfiletools

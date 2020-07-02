@@ -40,7 +40,7 @@ tools:
   revisions:
   - 8c17aa8032c2
   - bca68066a957
-  tool_panel_section_id: flowvisualizationtools
+  tool_panel_section_id: vis_tools
 - name: edit_fcs_markers
   owner: azomics
   revisions:
@@ -100,7 +100,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 8283ff163ba6
-  tool_panel_section_id: flowvisualizationtools
+  tool_panel_section_id: vis_tools
 - name: flowsom_compare
   owner: azomics
   revisions:
@@ -130,7 +130,7 @@ tools:
   owner: azomics
   revisions:
   - 23c0af6be9a7
-  tool_panel_section_id: flowvisualizationtools
+  tool_panel_section_id: vis_tools
 - name: generate_mfi
   owner: immport-devteam
   revisions:
@@ -140,7 +140,7 @@ tools:
   owner: azomics
   revisions:
   - b73fc4860906
-  tool_panel_section_id: flowvisualizationtools
+  tool_panel_section_id: vis_tools
 - name: merge_ds_flowtext
   owner: immport-devteam
   revisions:
