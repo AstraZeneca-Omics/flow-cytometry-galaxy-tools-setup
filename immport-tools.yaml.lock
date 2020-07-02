@@ -7,7 +7,7 @@ tools:
   revisions:
   - 08b71aee9b80
   - 7632562ada41
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: check_fcs_headers
   owner: immport-devteam
   revisions:
@@ -17,13 +17,13 @@ tools:
   owner: immport-devteam
   revisions:
   - e88c99a4fb36
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: collapse_pop
   owner: immport-devteam
   revisions:
   - 59f859ea3122
   - a3ae90eb1232
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: convert_fcs_to_text
   owner: immport-devteam
   revisions:
@@ -45,7 +45,7 @@ tools:
   owner: azomics
   revisions:
   - 02b2412598b6
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: extract_fcs_keywords
   owner: immport-devteam
   revisions:
@@ -56,7 +56,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 21b2dc3934ed
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: fcs_gate_trans
   owner: immport-devteam
   revisions:
@@ -95,7 +95,7 @@ tools:
   revisions:
   - 479ff3a9023c
   - 7a889f2f2e15
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: flow_overview
   owner: immport-devteam
   revisions:
@@ -120,12 +120,12 @@ tools:
   owner: immport-devteam
   revisions:
   - cc2266d3e611
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowtext_summary
   owner: immport-devteam
   revisions:
   - d61ed37c06ee
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowviz_density_plots
   owner: azomics
   revisions:
@@ -146,7 +146,7 @@ tools:
   revisions:
   - 3c0e4179be7a
   - '426650130311'
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: profile_cl
   owner: immport-devteam
   revisions:
@@ -156,7 +156,7 @@ tools:
   owner: immport-devteam
   revisions:
   - d2cdffd27293
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: run_flock
   owner: immport-devteam
   revisions:
@@ -166,4 +166,4 @@ tools:
   owner: immport-devteam
   revisions:
   - e1f0194cf8fc
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation

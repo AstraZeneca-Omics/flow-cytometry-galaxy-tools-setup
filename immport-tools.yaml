@@ -6,16 +6,16 @@ install_tool_dependencies: false
 tools:
   - name: auto_collapse_pop
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools 
+    tool_panel_section_id: data_manipulation 
   - name: check_fcs_headers
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
   - name: check_headers
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: collapse_pop
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: convert_fcs_to_text
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
@@ -27,13 +27,13 @@ tools:
     tool_panel_section_id: vis_tools 
   - name: edit_fcs_markers
     owner: azomics
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: extract_fcs_keywords
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
   - name: extract_pop
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: fcs_gate_trans
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
@@ -54,7 +54,7 @@ tools:
     tool_panel_section_id: flowanalysistools
   - name: flowclr_summary
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
 #  - name: flow_datatypes
 #    owner: immport-devteam
 #    tool_panel_section_id: immport_tools
@@ -72,10 +72,10 @@ tools:
     tool_panel_section_id: flowanalysistools
   - name: flowtext_scatterplot
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: flowtext_summary
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: flowviz_density_plots
     owner: azomics
     tool_panel_section_id: vis_tools 
@@ -87,16 +87,16 @@ tools:
     tool_panel_section_id: vis_tools 
   - name: merge_ds_flowtext
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: profile_cl
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
   - name: rearrange_columns
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
   - name: run_flock
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
   - name: txt_diagnosis
     owner: immport-devteam
-    tool_panel_section_id: flowfiletools
+    tool_panel_section_id: data_manipulation
