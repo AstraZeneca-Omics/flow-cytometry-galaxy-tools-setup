@@ -9,7 +9,7 @@ tools:
     tool_panel_section_id: flowfiletools 
   - name: check_fcs_headers
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: check_headers
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
@@ -18,7 +18,7 @@ tools:
     tool_panel_section_id: flowfiletools
   - name: convert_fcs_to_text
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: cross_sample
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
@@ -30,25 +30,25 @@ tools:
     tool_panel_section_id: flowfiletools
   - name: extract_fcs_keywords
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: extract_pop
     owner: immport-devteam
     tool_panel_section_id: flowfiletools
   - name: fcs_gate_trans
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: fcs_merge_downsample
     owner: azomics
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: fcs_scatterplot
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: fcs_summary
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: flowai
     owner: immport-devteam
-    tool_panel_section_id: fcsfiletools
+    tool_panel_section_id: data_manipulation
   - name: flowcl
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools

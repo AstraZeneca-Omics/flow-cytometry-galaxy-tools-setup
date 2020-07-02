@@ -12,7 +12,7 @@ tools:
   owner: immport-devteam
   revisions:
   - d3957a51cc51
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: check_headers
   owner: immport-devteam
   revisions:
@@ -29,7 +29,7 @@ tools:
   revisions:
   - 8e10184368a0
   - 99bf034c674d
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: cross_sample
   owner: immport-devteam
   revisions:
@@ -51,7 +51,7 @@ tools:
   revisions:
   - 1d5e530c8a5e
   - dc00746654dc
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: extract_pop
   owner: immport-devteam
   revisions:
@@ -62,29 +62,29 @@ tools:
   revisions:
   - 78b8ab344edd
   - c28c2e680bf5
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: fcs_merge_downsample
   owner: azomics
   revisions:
   - 8e568997abda
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: fcs_scatterplot
   owner: immport-devteam
   revisions:
   - 164cd5384f1d
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: fcs_summary
   owner: immport-devteam
   revisions:
   - 1d926a8daa92
   - d2749aa59d20
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowai
   owner: immport-devteam
   revisions:
   - 34397a84faf1
   - 60aa5e56531a
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowcl
   owner: immport-devteam
   revisions:
