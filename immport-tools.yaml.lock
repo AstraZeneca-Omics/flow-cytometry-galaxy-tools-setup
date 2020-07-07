@@ -60,12 +60,14 @@ tools:
 - name: fcs_gate_trans
   owner: immport-devteam
   revisions:
+  - 66a54e77aa33
   - 78b8ab344edd
   - c28c2e680bf5
   tool_panel_section_id: data_manipulation
 - name: fcs_merge_downsample
   owner: azomics
   revisions:
+  - 04afe468b234
   - 8e568997abda
   tool_panel_section_id: data_manipulation
 - name: fcs_scatterplot
@@ -115,6 +117,7 @@ tools:
   owner: azomics
   revisions:
   - 54a25f1139b4
+  - 6c1721e7d0d6
   tool_panel_section_id: flowanalysistools
 - name: flowtext_scatterplot
   owner: immport-devteam
