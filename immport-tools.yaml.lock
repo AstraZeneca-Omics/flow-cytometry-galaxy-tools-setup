@@ -16,6 +16,7 @@ tools:
 - name: check_headers
   owner: immport-devteam
   revisions:
+  - 05440ef97f8b
   - e88c99a4fb36
   tool_panel_section_id: data_manipulation
 - name: collapse_pop
@@ -122,6 +123,7 @@ tools:
 - name: flowtext_scatterplot
   owner: immport-devteam
   revisions:
+  - 754d511df1a3
   - cc2266d3e611
   tool_panel_section_id: data_manipulation
 - name: flowtext_summary
