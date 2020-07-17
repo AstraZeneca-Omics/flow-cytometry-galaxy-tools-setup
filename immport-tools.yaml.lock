@@ -75,6 +75,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 164cd5384f1d
+  - 413f3e610295
   tool_panel_section_id: data_manipulation
 - name: fcs_summary
   owner: immport-devteam
@@ -160,6 +161,7 @@ tools:
 - name: rearrange_columns
   owner: immport-devteam
   revisions:
+  - ce206587d42f
   - d2cdffd27293
   tool_panel_section_id: data_manipulation
 - name: run_flock
@@ -170,5 +172,6 @@ tools:
 - name: txt_diagnosis
   owner: immport-devteam
   revisions:
+  - b94872d65050
   - e1f0194cf8fc
   tool_panel_section_id: data_manipulation
