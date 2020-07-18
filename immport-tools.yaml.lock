@@ -168,6 +168,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 81f9b44f5242
+  - b6b4d08b6858
   tool_panel_section_id: flowanalysistools
 - name: txt_diagnosis
   owner: immport-devteam
