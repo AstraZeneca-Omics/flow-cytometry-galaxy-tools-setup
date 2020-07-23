@@ -141,6 +141,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 2f6dcda6e74e
+  - 91e856e5ec7a
   tool_panel_section_id: flowanalysistools
 - name: ggcyto_1d_density_plots
   owner: azomics
