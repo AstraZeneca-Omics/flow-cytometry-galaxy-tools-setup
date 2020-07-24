@@ -11,6 +11,7 @@ tools:
 - name: check_fcs_headers
   owner: immport-devteam
   revisions:
+  - a5609a84ed16
   - d3957a51cc51
   tool_panel_section_id: data_manipulation
 - name: check_headers
@@ -92,6 +93,7 @@ tools:
 - name: flowcl
   owner: immport-devteam
   revisions:
+  - f70f75e89890
   - fb0ee82f686d
   tool_panel_section_id: flowanalysistools
 - name: flowclr_summary
@@ -157,6 +159,7 @@ tools:
 - name: profile_cl
   owner: immport-devteam
   revisions:
+  - 62d8985a41e2
   - 8547aedf1350
   tool_panel_section_id: flowanalysistools
 - name: rearrange_columns
