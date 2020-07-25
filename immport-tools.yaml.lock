@@ -58,6 +58,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 21b2dc3934ed
+  - 4f28ee74079b
   tool_panel_section_id: data_manipulation
 - name: fcs_gate_trans
   owner: immport-devteam
