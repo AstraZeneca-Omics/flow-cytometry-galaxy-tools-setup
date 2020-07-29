@@ -41,6 +41,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 8c17aa8032c2
+  - a64ece32a01a
   - bca68066a957
   tool_panel_section_id: vis_tools
 - name: edit_fcs_markers
