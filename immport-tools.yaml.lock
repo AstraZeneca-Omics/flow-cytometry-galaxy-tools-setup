@@ -36,6 +36,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 5f670146a9af
+  - e80b0f62ffb3
   tool_panel_section_id: flowanalysistools
 - name: cs_overview
   owner: immport-devteam
@@ -108,6 +109,7 @@ tools:
   owner: immport-devteam
   revisions:
   - 8283ff163ba6
+  - b5453d07f740
   tool_panel_section_id: vis_tools
 - name: flowsom_compare
   owner: azomics
