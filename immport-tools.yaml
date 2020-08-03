@@ -52,6 +52,9 @@ tools:
   - name: flowai
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
+  - name: flclr_sample_name
+    owner: azomics
+    tool_panel_section_id: data_manipulation
   - name: flowcl
     owner: immport-devteam
     tool_panel_section_id: flowanalysistools
