@@ -136,6 +136,7 @@ tools:
 - name: flowtext_summary
   owner: immport-devteam
   revisions:
+  - 715c9696dcf5
   - d61ed37c06ee
   tool_panel_section_id: data_manipulation
 - name: flowviz_density_plots
