@@ -634,6 +634,7 @@ tools:
   - 441df83ffc7c
   - 5593b0744de9
   - 640982866dfe
+  - 7c3f9606ed0a
   - db43f55890d9
   - dd2a84734b87
   - faa50757208d
@@ -641,6 +642,7 @@ tools:
 - name: scmap_index_cluster
   owner: ebi-gxa
   revisions:
+  - 1949832b448c
   - 38c6a98c7c60
   - 4696224064ff
   - 63f1a27dce34
@@ -659,6 +661,7 @@ tools:
   - 5c94e80e428f
   - 5e6d54e2ab89
   - b78cdc83a479
+  - bcc0113fa796
   - c2ca3bc40523
   - f8921da94342
   tool_panel_section_id: hca_sc_scmap_tools
@@ -667,6 +670,7 @@ tools:
   revisions:
   - 037b0e7a7606
   - 1989bd869cff
+  - 40e10f3a1844
   - 49025c0cd5ca
   - 6651208d890b
   - 97922339644a
@@ -675,6 +679,7 @@ tools:
 - name: scmap_preprocess_sce
   owner: ebi-gxa
   revisions:
+  - 10c060627ef9
   - 559b9d22f264
   - 72a7d8593afc
   - a74497e18277
@@ -684,6 +689,7 @@ tools:
   revisions:
   - 139321321fdd
   - 3e22b96ba4fb
+  - 5972aea41e0e
   - 75ed6252dec5
   - 953c7ff4069e
   - d0d9c3dfd609
@@ -693,6 +699,7 @@ tools:
   owner: ebi-gxa
   revisions:
   - 0cb98597934b
+  - 0d713384d8d8
   - 3370352d1f85
   - 39370cc49ae7
   - 5f95950c3959
