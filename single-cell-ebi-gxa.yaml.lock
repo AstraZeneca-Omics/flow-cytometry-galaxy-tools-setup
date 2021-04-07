@@ -207,6 +207,7 @@ tools:
   - 1670af5eee46
   - 23939bfeee92
   - 377224a3cd1d
+  - 615a46c220f0
   - 67fa4288eee5
   - 71668dd2d47b
   - 74100c9351bc
@@ -319,6 +320,7 @@ tools:
   - 3798ea6a5e21
   - 3a00e9e50eb8
   - 4e666c43b6e3
+  - 5dde9b3c169e
   - 63cbe6d65e67
   - 746a0de8b12b
   - 8e2fc37c3e0c
@@ -428,6 +430,7 @@ tools:
   - 6f84e4382fb2
   - 885681d258b4
   - 96af0059b974
+  - a6190ae4fe16
   - a82c905e2c26
   - d929261bc28c
   - dd27b39c5c12
@@ -917,10 +920,12 @@ tools:
   - 53d74155bb52
   - 917f8e439160
   - e572598580c2
+  - ecb9ea6269ee
   tool_panel_section_label: RNA-Seq
 - name: rna_starsolo
   owner: iuc
   revisions:
+  - a6fba3d92531
   - ec9cbd6b9a49
   tool_panel_section_label: RNA-Seq
 - name: salmon_kallisto_mtx_to_10x
