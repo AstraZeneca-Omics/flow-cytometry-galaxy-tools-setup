@@ -8,6 +8,11 @@ tools:
   - 08b71aee9b80
   - 7632562ada41
   tool_panel_section_id: data_manipulation
+- name: autospill
+  owner: azomics
+  revisions:
+  - 315be37a7ac9
+  tool_panel_section_id: flowanalysistools
 - name: check_fcs_headers
   owner: immport-devteam
   revisions:
@@ -105,6 +110,11 @@ tools:
   - 479ff3a9023c
   - 7a889f2f2e15
   tool_panel_section_id: data_manipulation
+- name: flow_compensate
+  owner: azomics
+  revisions:
+  - ca7ba337b727
+  tool_panel_section_id: flowanalysistools
 - name: flow_overview
   owner: immport-devteam
   revisions:
