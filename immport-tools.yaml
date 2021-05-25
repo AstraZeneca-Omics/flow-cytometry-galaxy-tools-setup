@@ -7,6 +7,9 @@ tools:
   - name: auto_collapse_pop
     owner: immport-devteam
     tool_panel_section_id: data_manipulation 
+  - name: autospill
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
   - name: check_fcs_headers
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
@@ -58,6 +61,9 @@ tools:
 #  - name: flow_datatypes
 #    owner: immport-devteam
 #    tool_panel_section_id: immport_tools
+  - name: flow_compensate
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
   - name: flow_overview
     owner: immport-devteam
     tool_panel_section_id: vis_tools
