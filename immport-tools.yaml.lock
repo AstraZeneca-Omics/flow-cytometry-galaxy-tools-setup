@@ -115,6 +115,7 @@ tools:
   owner: azomics
   revisions:
   - ca7ba337b727
+  - ffc083c86d44
   tool_panel_section_id: flowanalysistools
 - name: flow_overview
   owner: immport-devteam
