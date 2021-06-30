@@ -12,6 +12,7 @@ tools:
   owner: azomics
   revisions:
   - 315be37a7ac9
+  - 3293c160f73c
   - 7f5bf24d5aeb
   tool_panel_section_id: flowanalysistools
 - name: check_fcs_headers
