@@ -106,3 +106,6 @@ tools:
   - name: txt_diagnosis
     owner: immport-devteam
     tool_panel_section_id: data_manipulation
+  - name: convert_fcstxt_to_sce
+    owner: azomics
+    tool_panel_section_id: data_manipulation
