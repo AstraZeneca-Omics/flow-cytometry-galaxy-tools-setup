@@ -198,3 +198,8 @@ tools:
   - b94872d65050
   - e1f0194cf8fc
   tool_panel_section_id: data_manipulation
+- name: convert_fcstxt_to_sce
+  owner: azomics
+  revisions:
+  - 4dc004880972
+  tool_panel_section_id: data_manipulation
