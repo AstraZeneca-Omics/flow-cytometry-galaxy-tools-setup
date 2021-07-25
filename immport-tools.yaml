@@ -110,5 +110,5 @@ tools:
     owner: azomics
     tool_panel_section_id: data_manipulation
   - name: metacyto_preprocess
-    owner: immport-devteam
+    owner: azomics
     tool_panel_section_id: flowanalysistools
