@@ -109,3 +109,6 @@ tools:
   - name: convert_fcstxt_to_sce
     owner: azomics
     tool_panel_section_id: data_manipulation
+  - name: metacyto_preprocess
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
