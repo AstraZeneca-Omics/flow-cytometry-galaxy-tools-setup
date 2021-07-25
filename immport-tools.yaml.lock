@@ -203,3 +203,8 @@ tools:
   revisions:
   - 4dc004880972
   tool_panel_section_id: data_manipulation
+- name: metacyto_preprocess
+  owner: azomics
+  revisions:
+  - bf6470882a15
+  tool_panel_section_id: flowanalysistools
