@@ -112,3 +112,9 @@ tools:
   - name: metacyto_preprocess
     owner: azomics
     tool_panel_section_id: flowanalysistools
+  - name: metacyto_checkpanel
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
+  - name: meta_autocluster
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
