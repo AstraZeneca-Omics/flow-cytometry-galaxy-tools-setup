@@ -208,3 +208,13 @@ tools:
   revisions:
   - bf6470882a15
   tool_panel_section_id: flowanalysistools
+- name: metacyto_checkpanel
+  owner: azomics
+  revisions:
+  - 67d79ba0f7aa
+  tool_panel_section_id: flowanalysistools
+- name: meta_autocluster
+  owner: azomics
+  revisions:
+  - c744db871f90
+  tool_panel_section_id: flowanalysistools
