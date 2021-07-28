@@ -118,3 +118,6 @@ tools:
   - name: meta_autocluster
     owner: azomics
     tool_panel_section_id: flowanalysistools
+  - name: metacyto_search_clr
+    owner: azomics
+    tool_panel_section_id: flowanalysistools
