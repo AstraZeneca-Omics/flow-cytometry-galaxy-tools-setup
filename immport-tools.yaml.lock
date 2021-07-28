@@ -218,3 +218,7 @@ tools:
   revisions:
   - c744db871f90
   tool_panel_section_id: flowanalysistools
+- name: metacyto_search_clr
+  owner: azomics
+  revisions: []
+  tool_panel_section_id: flowanalysistools
