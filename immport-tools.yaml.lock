@@ -52,6 +52,11 @@ tools:
   - a64ece32a01a
   - bca68066a957
   tool_panel_section_id: vis_tools
+- name: clustergrammer_flow
+  owner: azomics
+  revisions:
+  - c90127c2a1ae
+  tool_panel_section_id: vis_tools
 - name: edit_fcs_markers
   owner: azomics
   revisions:
@@ -99,6 +104,11 @@ tools:
   revisions:
   - 34397a84faf1
   - 60aa5e56531a
+  tool_panel_section_id: data_manipulation
+- name: flclr_sample_name
+  owner: azomics
+  revisions:
+  - fddd754b8bcb
   tool_panel_section_id: data_manipulation
 - name: flowcl
   owner: immport-devteam
@@ -222,3 +232,8 @@ tools:
   owner: azomics
   revisions: []
   tool_panel_section_id: flowanalysistools
+- name: metacyto_histogram
+  owner: azomics
+  revisions:
+  - f5526d97056c
+  tool_panel_section_id: vis_tools
