@@ -127,3 +127,7 @@ tools:
   - name: metacyto_search_clr
     owner: azomics
     tool_panel_section_id: flowanalysistools
+  - name: metacyto_histogram
+    owner: azomics
+    tool_panel_section_id: vis_tools
+
