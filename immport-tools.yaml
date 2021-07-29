@@ -27,7 +27,10 @@ tools:
     tool_panel_section_id: flowanalysistools
   - name: cs_overview
     owner: immport-devteam
-    tool_panel_section_id: vis_tools 
+    tool_panel_section_id: vis_tools
+  - name: clustergrammer_flow
+    owner: azomics
+    tool_panel_section_id: vis_tools
   - name: edit_fcs_markers
     owner: azomics
     tool_panel_section_id: data_manipulation
@@ -51,6 +54,9 @@ tools:
     tool_panel_section_id: data_manipulation
   - name: flowai
     owner: immport-devteam
+    tool_panel_section_id: data_manipulation
+  - name: flclr_sample_name
+    owner: azomics
     tool_panel_section_id: data_manipulation
   - name: flowcl
     owner: immport-devteam
