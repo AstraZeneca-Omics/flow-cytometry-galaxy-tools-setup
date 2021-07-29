@@ -1,0 +1,11 @@
+reassign_to_section_id:
+- section_id_regexp: hca_sc_.*
+  destination_section_id: hca_sc_all
+- section_label: 'Text Manipulation'
+  destination_section_id: data_manipulation
+- section_label: 'RNA-Seq'
+  destination_section_id: hca_sc_all
+- section_label: FASTA/FASTQ manipulation
+  destination_section_id: hca_sc_all
+- tool_id: ucsc_cell_browser
+  destination_section_id: vis_tools

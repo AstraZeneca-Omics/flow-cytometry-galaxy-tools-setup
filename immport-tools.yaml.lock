@@ -5,120 +5,220 @@ tools:
 - name: auto_collapse_pop
   owner: immport-devteam
   revisions:
+  - 08b71aee9b80
   - 7632562ada41
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
+- name: autospill
+  owner: azomics
+  revisions:
+  - 315be37a7ac9
+  - 3293c160f73c
+  - 7f5bf24d5aeb
+  tool_panel_section_id: flowanalysistools
 - name: check_fcs_headers
   owner: immport-devteam
   revisions:
+  - a5609a84ed16
   - d3957a51cc51
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: check_headers
   owner: immport-devteam
   revisions:
+  - 05440ef97f8b
   - e88c99a4fb36
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: collapse_pop
   owner: immport-devteam
   revisions:
   - 59f859ea3122
-  tool_panel_section_id: flowfiletools
+  - a3ae90eb1232
+  tool_panel_section_id: data_manipulation
 - name: convert_fcs_to_text
   owner: immport-devteam
   revisions:
   - 8e10184368a0
-  tool_panel_section_id: fcsfiletools
+  - 99bf034c674d
+  tool_panel_section_id: data_manipulation
 - name: cross_sample
   owner: immport-devteam
   revisions:
   - 5f670146a9af
+  - e80b0f62ffb3
   tool_panel_section_id: flowanalysistools
 - name: cs_overview
   owner: immport-devteam
   revisions:
   - 8c17aa8032c2
-  tool_panel_section_id: flowvisualizationtools
+  - a64ece32a01a
+  - bca68066a957
+  tool_panel_section_id: vis_tools
+- name: edit_fcs_markers
+  owner: azomics
+  revisions:
+  - 02b2412598b6
+  tool_panel_section_id: data_manipulation
 - name: extract_fcs_keywords
   owner: immport-devteam
   revisions:
+  - 1d5e530c8a5e
   - dc00746654dc
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: extract_pop
   owner: immport-devteam
   revisions:
   - 21b2dc3934ed
-  tool_panel_section_id: flowfiletools
+  - 4f28ee74079b
+  tool_panel_section_id: data_manipulation
 - name: fcs_gate_trans
   owner: immport-devteam
   revisions:
+  - 66a54e77aa33
   - 78b8ab344edd
-  tool_panel_section_id: fcsfiletools
+  - c28c2e680bf5
+  tool_panel_section_id: data_manipulation
+- name: fcs_merge_downsample
+  owner: azomics
+  revisions:
+  - 04afe468b234
+  - 8e568997abda
+  tool_panel_section_id: data_manipulation
 - name: fcs_scatterplot
   owner: immport-devteam
   revisions:
   - 164cd5384f1d
-  tool_panel_section_id: fcsfiletools
+  - 413f3e610295
+  tool_panel_section_id: data_manipulation
 - name: fcs_summary
   owner: immport-devteam
   revisions:
   - 1d926a8daa92
-  tool_panel_section_id: fcsfiletools
+  - d2749aa59d20
+  tool_panel_section_id: data_manipulation
 - name: flowai
   owner: immport-devteam
   revisions:
+  - 34397a84faf1
   - 60aa5e56531a
-  tool_panel_section_id: fcsfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowcl
   owner: immport-devteam
   revisions:
+  - f70f75e89890
   - fb0ee82f686d
   tool_panel_section_id: flowanalysistools
 - name: flowclr_summary
   owner: immport-devteam
   revisions:
   - 479ff3a9023c
-  tool_panel_section_id: flowfiletools
+  - 7a889f2f2e15
+  tool_panel_section_id: data_manipulation
+- name: flow_compensate
+  owner: azomics
+  revisions:
+  - ca7ba337b727
+  - ffc083c86d44
+  tool_panel_section_id: flowanalysistools
 - name: flow_overview
   owner: immport-devteam
   revisions:
   - 8283ff163ba6
-  tool_panel_section_id: flowvisualizationtools
+  - b5453d07f740
+  tool_panel_section_id: vis_tools
+- name: flowsom_compare
+  owner: azomics
+  revisions:
+  - bd35f3b66a1e
+  tool_panel_section_id: flowanalysistools
+- name: flowsom_cross_comp
+  owner: azomics
+  revisions:
+  - e796ed5dfd02
+  tool_panel_section_id: flowanalysistools
+- name: flowsom_tree
+  owner: azomics
+  revisions:
+  - 54a25f1139b4
+  - 6c1721e7d0d6
+  tool_panel_section_id: flowanalysistools
 - name: flowtext_scatterplot
   owner: immport-devteam
   revisions:
+  - 754d511df1a3
   - cc2266d3e611
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: flowtext_summary
   owner: immport-devteam
   revisions:
+  - 715c9696dcf5
   - d61ed37c06ee
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
+- name: flowviz_density_plots
+  owner: azomics
+  revisions:
+  - 23c0af6be9a7
+  tool_panel_section_id: vis_tools
 - name: generate_mfi
   owner: immport-devteam
   revisions:
   - 2f6dcda6e74e
+  - 91e856e5ec7a
   tool_panel_section_id: flowanalysistools
+- name: ggcyto_1d_density_plots
+  owner: azomics
+  revisions:
+  - b73fc4860906
+  tool_panel_section_id: vis_tools
 - name: merge_ds_flowtext
   owner: immport-devteam
   revisions:
+  - 3c0e4179be7a
   - '426650130311'
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: profile_cl
   owner: immport-devteam
   revisions:
+  - 62d8985a41e2
   - 8547aedf1350
   tool_panel_section_id: flowanalysistools
 - name: rearrange_columns
   owner: immport-devteam
   revisions:
+  - ce206587d42f
   - d2cdffd27293
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
 - name: run_flock
   owner: immport-devteam
   revisions:
   - 81f9b44f5242
+  - b6b4d08b6858
   tool_panel_section_id: flowanalysistools
 - name: txt_diagnosis
   owner: immport-devteam
   revisions:
+  - b94872d65050
   - e1f0194cf8fc
-  tool_panel_section_id: flowfiletools
+  tool_panel_section_id: data_manipulation
+- name: convert_fcstxt_to_sce
+  owner: azomics
+  revisions:
+  - 4dc004880972
+  tool_panel_section_id: data_manipulation
+- name: metacyto_preprocess
+  owner: azomics
+  revisions:
+  - bf6470882a15
+  tool_panel_section_id: flowanalysistools
+- name: metacyto_checkpanel
+  owner: azomics
+  revisions:
+  - 67d79ba0f7aa
+  tool_panel_section_id: flowanalysistools
+- name: meta_autocluster
+  owner: azomics
+  revisions:
+  - c744db871f90
+  tool_panel_section_id: flowanalysistools
+- name: metacyto_search_clr
+  owner: azomics
+  revisions: []
+  tool_panel_section_id: flowanalysistools
